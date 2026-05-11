@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Homepage</title>
+  <meta name="description" content="A personal academic homepage inspired by Shirley Wu's website.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=20260511a">
+</head>
+<body>
+  <div class="page-shell">
+    <section class="library-view" id="library-view">
+      <div class="library-header">
+        <div>
+          <p class="eyebrow" id="library-kicker">Profile Library</p>
+          <h1 id="library-heading">Select A Person</h1>
+          <p class="headline wide-headline" id="library-copy">Choose someone from your saved profile database, or import a new PDF to create a profile page.</p>
+        </div>
+        <div class="library-actions">
+          <button id="global-language-toggle-button" type="button" class="ghost-button language-toggle-button">切换中文</button>
+          <button id="create-profile-button" type="button" class="upload-button">Import New Profile</button>
+        </div>
+      </div>
+      <section class="library-panel">
+        <div class="library-toolbar">
+          <div class="library-controls">
+            <input id="profile-search" class="search-input" type="search" placeholder="Search by name, role, or topic">
+            <label class="sort-control" for="profile-sort">
+              <span id="profile-sort-label">Sort</span>
+              <select id="profile-sort" class="sort-select">
+                <option value="pinned">Pinned first</option>
+                <option value="newest">Newest</option>
+                <option value="name-asc">Name A-Z</option>
+                <option value="name-desc">Name Z-A</option>
+              </select>
+            </label>
+          </div>
+          <p class="library-status" id="library-status">Loading saved profiles ...</p>
+        </div>
+        <div class="profile-list" id="profile-list"></div>
+      </section>
+    </section>
+
+    <section class="profile-view hidden" id="profile-view">
+      <aside class="sidebar">
+        <div class="sidebar-inner">
+          <div class="sidebar-profile">
+            <button id="back-to-library" type="button" class="back-link">&larr; Back To People</button>
+            <img id="person-photo" src="assets/avatar-placeholder.svg" alt="Profile portrait">
+            <p class="eyebrow">Personal Website Template</p>
+            <h1 id="person-name">Your Name</h1>
+            <p class="headline" id="person-role">Researcher / Engineer / Student</p>
+            <div class="social-links" id="social-links"></div>
+          </div>
+          <nav class="side-nav" id="top-nav"></nav>
+        </div>
+      </aside>
+
+      <main class="content-column">
+        <section class="content-section intro-section" id="about">
+          <p class="section-kicker" id="about-kicker">About Me</p>
+          <div id="bio"></div>
+        </section>
+
+        <section class="content-section" id="news">
+          <div class="section-heading">
+            <p class="section-kicker" id="news-kicker">What's New</p>
+            <h2 id="news-heading">Recent Updates</h2>
+          </div>
+          <ul class="news-list" id="news-list"></ul>
+        </section>
+
+        <section class="content-section" id="topics">
+          <div class="section-heading">
+            <p class="section-kicker" id="topics-kicker">Research Topics</p>
+            <h2 id="topics-heading">Focus Areas</h2>
+          </div>
+          <div class="topic-list" id="topic-list"></div>
+        </section>
+
+        <section class="content-section" id="featured">
+          <div class="section-heading">
+            <p class="section-kicker" id="featured-kicker">Featured</p>
+            <h2 id="featured-heading">Selected Projects</h2>
+          </div>
+          <div class="project-grid" id="project-grid"></div>
+        </section>
+
+        <section class="content-section" id="experience">
+          <div class="section-heading">
+            <p class="section-kicker" id="experience-kicker">Experience</p>
+            <h2 id="experience-heading">Education & Work</h2>
+          </div>
+          <div class="timeline" id="timeline"></div>
+        </section>
+
+        <section class="content-section" id="services">
+          <div class="section-heading">
+            <p class="section-kicker" id="services-kicker">Services</p>
+            <h2 id="services-heading">Teaching & Community</h2>
+          </div>
+          <div class="services-list" id="services-list"></div>
+          <div class="section-heading spaced-top">
+            <p class="section-kicker" id="misc-kicker">Miscellaneous</p>
+            <h2 id="misc-heading">More About Me</h2>
+          </div>
+          <ul class="misc-list" id="misc-list"></ul>
+        </section>
+
+        <section class="content-section importer-section" id="importer">
+          <div class="section-heading">
+            <p class="section-kicker" id="importer-kicker">PDF Import</p>
+            <h2 id="importer-heading">Import From Resume PDF</h2>
+          </div>
+          <p class="importer-copy" id="importer-copy">
+            Upload a resume or profile PDF. The page will extract text, send it to the parsing API,
+            store the person in MySQL, and refresh your profile library.
+          </p>
+          <p class="field-note" id="importer-note">
+            This page uses a thin local backend. Keep your API key on the server side with
+            <code>LLM_API_KEY</code>, configure MySQL with the database variables, and the browser will
+            only send extracted PDF text to the local parser endpoint.
+          </p>
+          <div class="importer-controls">
+            <label class="upload-button" for="pdf-input" id="pdf-input-label">Choose PDF</label>
+            <input id="pdf-input" type="file" accept="application/pdf">
+            <label class="ghost-button" for="photo-input" id="photo-input-label">Replace Photo</label>
+            <input id="photo-input" type="file" accept="image/*">
+            <button id="reset-button" type="button" class="ghost-button">Reset To Default</button>
+          </div>
+          <p class="importer-status" id="importer-status">No PDF imported yet.</p>
+          <details class="importer-preview">
+            <summary id="preview-summary">Preview extracted text</summary>
+            <pre id="pdf-preview">The parsed PDF text will appear here after import.</pre>
+          </details>
+        </section>
+
+        <footer class="site-footer">
+          <p id="footer-text">Copyright (c) 2026 Your Name</p>
+        </footer>
+      </main>
+    </section>
+    <button id="language-toggle-button" type="button" hidden aria-hidden="true">切换中文</button>
+  </div>
+
+  <script src="script.js?v=20260511a" type="module"></script>
+</body>
+</html>

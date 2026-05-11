@@ -1,0 +1,13 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="url(#paint0_linear)"/>
+  <circle cx="400" cy="328" r="146" fill="#F5EBDD"/>
+  <path d="M178 866C178 725.838 277.723 612 400.75 612H401.25C524.277 612 624 725.838 624 866V1000H178V866Z" fill="#F5EBDD"/>
+  <path d="M254 154C254 154 306.825 92 398 92C489.175 92 544 154 544 154C544 154 522.481 243.333 400 243.333C277.519 243.333 254 154 254 154Z" fill="#D4B594"/>
+  <text x="400" y="950" text-anchor="middle" fill="#F9F3EA" font-family="Arial, sans-serif" font-size="42" letter-spacing="4">YOUR PHOTO</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="90" y1="64" x2="694" y2="965" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A33D2D"/>
+      <stop offset="1" stop-color="#D6A25F"/>
+    </linearGradient>
+  </defs>
+</svg>
