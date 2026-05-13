@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-13 10:34:55 UTC",
+  "generated_at": "2026-05-11 06:35:12 UTC",
   "source": "local-mysql-export",
   "profiles": [
     {
-      "id": "unnamed-profile",
+      "id": "zheng-wang",
       "name": "Zheng Wang",
       "role": "Associated Professor",
       "summary": "Zheng Wang is an Associated Professor specializing in medical imaging analysis, disease identification, bioinformatics, and the development of computational models for multimodal data fusion in the medical field.",
@@ -13,39 +13,38 @@
         "Bioinformatics",
         "Computational models for multimodal data fusion",
         "Deep learning",
-        "Artificial intelligence",
-        "Clinical decision support"
+        "Computer-aided diagnosis"
       ],
       "data": {
         "misc": [],
         "news": [
           {
-            "date": "2024 - 2027",
-            "text": "Grant: Research on intelligent recognition of in vivo pigment ring patterns in radial confocal scanning images based on multi-scale representation learning (Key Scientific Research Fund of Hunan Provincial Education Department)."
+            "date": "2024",
+            "text": "Secured funding for 'Research on intelligent recognition of in vivo pigment ring patterns in radial confocal scanning images based on multi-scale representation learning' (Key Scientific Research Fund of Hunan Provincial Education Department)."
           },
           {
-            "date": "2025 - 2028",
-            "text": "Grant: Clinical Application of Artificial Intelligence and Deep Learning for the Accurate Prediction of Pancreatic Biological Age (Key Scientific Research Fund of Hunan Provincial Education Department)."
+            "date": "2025",
+            "text": "Secured funding for 'Clinical Application of Artificial Intelligence and Deep Learning for the Accurate Prediction of Pancreatic Biological Age' (Key Scientific Research Fund of Hunan Provincial Education Department)."
           },
           {
-            "date": "2024 - 2027",
-            "text": "Grant: Research on rheumatology and immunology medical image segmentation method based on submodular function (Scientific Research Fund of Hunan Provincial Education Department)."
+            "date": "2024",
+            "text": "Secured funding for 'Research on rheumatology and immunology medical image segmentation method based on submodular function' (Scientific Research Fund of Hunan Provincial Education Department)."
           },
           {
-            "date": "2022 - 2024",
-            "text": "Grant: Computer-aided diagnosis based on graph neural network (Hunan Provincial Natural Science Foundation of China)."
+            "date": "2022",
+            "text": "Secured funding for 'Computer-aided diagnosis based on graph neural network' (Hunan Provincial Natural Science Foundation of China)."
           },
           {
-            "date": "2020 - 2024",
-            "text": "Grant: Research on teaching reform of Java course based on project-driven PBL (Teaching Reform Research Project of Universities in Hunan Province)."
+            "date": "2020",
+            "text": "Secured funding for 'Research on teaching reform of Java course based on project-driven PBL' (Teaching Reform Research Project of Universities in Hunan Province)."
           },
           {
-            "date": "2019 - 2020",
-            "text": "Grant: Deep learning for diagnosis of high-resolution esophageal manometry (Scientific Research Fund of Hunan Provincial Education Department)."
+            "date": "2019",
+            "text": "Secured funding for 'Deep learning for diagnosis of high-resolution esophageal manometry' (Scientific Research Fund of Hunan Provincial Education Department)."
           },
           {
-            "date": "2019 - 2020",
-            "text": "Grant: Identifying Medical Diagnoses by Image-Based Deep Learning (Graduate Student Innovation Foundation of Central South University)."
+            "date": "2019",
+            "text": "Secured funding for 'Identifying Medical Diagnoses by Image-Based Deep Learning' (Graduate Student Innovation Foundation of Central South University)."
           }
         ],
         "topics": [
@@ -54,118 +53,99 @@
           "Bioinformatics",
           "Computational models for multimodal data fusion",
           "Deep learning",
-          "Artificial intelligence",
-          "Clinical decision support"
+          "Computer-aided diagnosis"
         ],
         "profile": {
           "bio": [
             "Zheng Wang is an Associated Professor specializing in medical imaging analysis, disease identification, bioinformatics, and the development of computational models for multimodal data fusion in the medical field.",
-            "He holds a Doctor's degree in Computational Mathematics and a Master's degree in Informatics (Diplom-Informatiker). His research focuses on applying deep learning and artificial intelligence to clinical decision support, particularly in dermatology, radiology and gastroenterology."
+            "He holds a Doctor's degree in Computational Mathematics (2022) and a Master's degree in Informatics (2005). His research focuses on applying deep learning and AI to clinical decision support, particularly in dermatology, gastroenterology, and radiology."
           ],
           "name": "Zheng Wang",
           "role": "Associated Professor",
-          "links": [],
-          "gender": "male",
-          "sourceName": "1.1 Curriculum vitae.pdf"
+          "links": []
         },
         "services": [],
         "experience": [
           {
-            "organization": "Current Appointment",
-            "range": "01 February 2022 - Present",
-            "detail": "Associated Professor"
+            "range": "01 February 2022 – Present Work Contract ： SYB2022440 Funding Sources  Title : Research on intelligent recognition of in vivo pigment ring patterns in radial confocal scanning images based on multi - scale representation learning",
+            "detail": "Associated Professor Employment Period: 01 February 2022 – Present Work Contract ： SYB2022440 Funding Sources  Title : Research on intelligent recognition of in vivo pigment ring patterns in radial confocal scanning images based on multi - scale representation learning at Graduate Student Innovation Foundation of Central South University Stays Abroad Stayed In",
+            "organization": "Graduate Student Innovation Foundation of Central South University Stays Abroad Stayed In"
           },
           {
-            "organization": "Doctoral Study",
-            "range": "01 September 2018 - 15 June 2022",
-            "detail": "Doctor's Degree in Computational Mathematics"
+            "range": "01 February 2022 – Present",
+            "detail": "Associated Professor",
+            "organization": "Current Appointment"
           },
           {
-            "organization": "Master's Study",
-            "range": "01 September 2000 - 05 April 2005",
-            "detail": "Master's Degree in Informatics (Diplom-Informatiker)"
+            "range": "01 September 2018 – 15 June 2022",
+            "detail": "Doctor’s Degree in Computational Mathematics",
+            "organization": "Doctoral Study"
           },
           {
-            "organization": "Bachelor's Study",
-            "range": "01 September 1994 - 20 June 1998",
-            "detail": "Bachelor's Degree in Computational Mathematics"
+            "range": "01 September 2000 – 05 April 2005",
+            "detail": "Master’s Degree in Informatics (Diplom - Informatiker)",
+            "organization": "Master's Study"
           },
           {
-            "organization": "Stay Abroad",
-            "range": "20 August 1999 - 23 May 2005",
-            "detail": "DSH Exam and master’s study (Diplom-Informatiker)"
+            "range": "01 September 1994 – 20 June 1998",
+            "detail": "Bachelor’s Degree in Computational Mathematics",
+            "organization": "Bachelor's Study"
+          },
+          {
+            "range": "20 August 1999 – 23 May 2005",
+            "detail": "DSH Exam and master’s study (Diplom - Informatiker)",
+            "organization": "Stay Abroad"
           }
         ],
         "featuredProjects": [
           {
+            "links": [],
             "title": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression",
-            "venue": "Computers in Biology and Medicine, 2026",
-            "authors": "Wang, Z., Hu, H., Wen, Y., et al.",
-            "summary": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression.",
-            "links": []
+            "venue": "Computers in Biology and Medicine 208 (2026)",
+            "authors": "Wang, Zheng, Hui Hu, Yaqing Wen, Zixuan Nie, Chong Wang, Hongyang Fu, Qinghai Zeng, and Jianglin Zhang",
+            "summary": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression."
           },
           {
+            "links": [],
             "title": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging",
-            "venue": "IEEE Journal of Biomedical and Health Informatics, 2026",
-            "authors": "Wang, Z., Nie, Z., Hu, H., et al.",
-            "summary": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging: A Clinical Decision Support.",
-            "links": []
+            "venue": "IEEE Journal of Biomedical and Health Informatics (2026)",
+            "authors": "Wang, Zheng, Zixuan Nie, Hui Hu, Kaibin Lin, Chong Wang, Hongyang Fu, and Jianglin Zhang",
+            "summary": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging: A Clinical Decision Support."
           },
           {
+            "links": [],
             "title": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma",
-            "venue": "Computers in Biology and Medicine, 2026",
-            "authors": "Peng, J., Xie, S., Liao, X., et al.",
-            "summary": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma and vascular involvement.",
-            "links": []
+            "venue": "Computers in Biology and Medicine 204 (2026)",
+            "authors": "Peng, Jia, Shiyao Xie, Xinnan Liao, Mengnan Tai, Zixuan Nie, Yaoqi Wang, Zhiyuan Chen, Zheng Wang, and Ya Peng",
+            "summary": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma and vascular involvement."
           },
           {
+            "links": [],
             "title": "Deep learning-based severity grading of Meniere's disease using 2D MRI",
-            "venue": "Medical Physics, 2026",
-            "authors": "Wang, Z., Xue, Y., Chen, Y., et al.",
-            "summary": "Deep learning-based severity grading of Meniere's disease using 2D MRI.",
-            "links": []
+            "venue": "Medical Physics 53, no. 1 (2026)",
+            "authors": "Wang, Zheng, Yang Xue, Yongjia Chen, Kaibin Lin, Jie Li, Lingyun Mei, and Jian Song",
+            "summary": "Deep learning-based severity grading of Meniere's disease using 2D MRI."
           },
           {
+            "links": [],
             "title": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data",
-            "venue": "Scientific Reports, 2025",
-            "authors": "Wang, Z., Tai, M., Hu, H., et al.",
-            "summary": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data.",
-            "links": []
+            "venue": "Scientific Reports (2025)",
+            "authors": "Wang, Zheng, Mengnan Tai, Hui Hu, Hao Yuan, Chong Wang, Hongyang Fu, and Jianglin Zhang",
+            "summary": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data."
           },
           {
-            "title": "Enhancing Epstein – Barr virus detection in IBD patients with XAI and clinical data integration",
-            "venue": "Computers in Biology and Medicine, 2025",
-            "authors": "Wang, Z., Chen, Y., Wu, Y., et al.",
-            "summary": "Enhancing Epstein – Barr virus detection in IBD patients with XAI and clinical data integration.",
-            "links": []
+            "links": [],
+            "title": "Structure-aware deep learning for chronic middle ear disease",
+            "venue": "EXPERT SYSTEMS WITH APPLICATIONS, 194 (2022)",
+            "authors": "Zheng Wang, Jian Song, Ri Su, Muzhou Hou, Min Qi, Jianglin Zhang, Xuewen Wu",
+            "summary": "Structure-aware deep learning for chronic middle ear disease."
           },
           {
-            "title": "Influence of hair presence on dermoscopic image analysis by AI in skin lesion diagnosis",
-            "venue": "Computers in Biology and Medicine, 2024",
-            "authors": "Wang, Z., Xue, Y., Xi, H., et al.",
-            "summary": "Influence of hair presence on dermoscopic image analysis by AI in skin lesion diagnosis.",
-            "links": []
-          },
-          {
-            "title": "Identifying diagnostic biomarkers for Erythemato-Squamous diseases using explainable machine learning",
-            "venue": "Biomedical Signal Processing and Control, 2025",
-            "authors": "Wang, Z., Chang, L., Shi, T., et al.",
-            "summary": "Identifying diagnostic biomarkers for Erythemato-Squamous diseases using explainable machine learning.",
-            "links": []
-          },
-          {
-            "title": "Rethinking BCC diagnosis: Automating concept-specific detecting of BCC in dermatoscopic image",
-            "venue": "Journal der Deutschen Dermatologischen Gesellschaft, 2024",
-            "authors": "Wang, Z., Hu, H., Liu, Z., et al.",
-            "summary": "Rethinking BCC diagnosis: Automating concept-specific detecting of BCC in dermatoscopic image.",
-            "links": []
-          },
-          {
-            "title": "Accurate measurement of key structures in CBD patients using deep learning",
-            "venue": "Biomedical Signal Processing and Control, 2024",
-            "authors": "Wang, Z., Lin, K., Zheng, M., et al.",
-            "summary": "Accurate measurement of key structures in CBD patients using deep learning.",
-            "links": []
+            "links": [],
+            "title": "Three feature streams based on a convolutional neural network for early esophageal cancer identification",
+            "venue": "MULTIMEDIA TOOLS AND APPLICATIONS, 81.26 (2022)",
+            "authors": "Zheng Wang, Zhaoying Li, Ying Xiao, Xiaowei Liu, Muzhou Hou, Shuijiao Chen",
+            "summary": "Three feature streams based on a convolutional neural network for early esophageal cancer identification."
           }
         ]
       },
@@ -175,82 +155,80 @@
             "misc": [],
             "news": [
               {
-                "date": "2024 - 2027",
-                "text": "项目：基于多尺度表示学习的体内色素环模式径向共聚焦扫描图像智能识别研究（湖南省教育厅重点科学研究基金）。"
+                "date": "2024",
+                "text": "获得“基于多尺度表示学习的径向共聚焦扫描图像中体内色素环模式智能识别研究”项目资助（湖南省教育厅重点科学研究基金）。"
               },
               {
-                "date": "2025 - 2028",
-                "text": "项目：人工智能和深度学习在胰腺生物学年龄准确预测中的临床应用（湖南省教育厅重点科学研究基金）。"
+                "date": "2025",
+                "text": "获得“人工智能与深度学习在胰腺生物学年龄精准预测中的临床应用”项目资助（湖南省教育厅重点科学研究基金）。"
               },
               {
-                "date": "2024 - 2027",
-                "text": "项目：基于子模函数的风湿免疫学医学图像分割方法研究（湖南省教育厅科学研究基金）。"
+                "date": "2024",
+                "text": "获得“基于子模函数的风湿免疫学医学图像分割方法研究”项目资助（湖南省教育厅科学研究基金）。"
               },
               {
-                "date": "2022 - 2024",
-                "text": "项目：基于图神经网络的计算机辅助诊断（湖南省自然科学基金）。"
+                "date": "2022",
+                "text": "获得“基于图神经网络的计算机辅助诊断”项目资助（湖南省自然科学基金）。"
               },
               {
-                "date": "2020 - 2024",
-                "text": "项目：基于项目驱动PBL的Java课程教学改革研究（湖南省普通高等学校教学改革研究项目）。"
+                "date": "2020",
+                "text": "获得“基于项目驱动PBL的Java课程教学改革研究”项目资助（湖南省普通高等学校教学改革研究项目）。"
               },
               {
-                "date": "2019 - 2020",
-                "text": "项目：用于高分辨率食管测压诊断的深度学习（湖南省教育厅科学研究基金）。"
+                "date": "2019",
+                "text": "获得“深度学习用于高分辨率食管测压诊断”项目资助（湖南省教育厅科学研究基金）。"
               },
               {
-                "date": "2019 - 2020",
-                "text": "项目：基于图像深度学习的医学诊断识别（中南大学研究生创新基金）。"
+                "date": "2019",
+                "text": "获得“基于图像深度学习的医学诊断识别”项目资助（中南大学研究生创新基金）。"
               }
             ],
-            "footer": "版权所有 (c) 2026 Zheng Wang",
+            "footer": "Copyright (c) 2026 Zheng Wang",
             "topics": [
               "医学影像分析",
               "疾病识别",
               "生物信息学",
               "多模态数据融合计算模型",
               "深度学习",
-              "人工智能",
-              "临床决策支持"
+              "计算机辅助诊断"
             ],
             "profile": {
               "bio": [
-                "Zheng Wang 是一位副教授，专业领域包括医学影像分析、疾病识别、生物信息学以及医学领域多模态数据融合计算模型的开发。",
-                "他拥有计算数学博士学位和信息学硕士学位。他的研究重点是将深度学习和人工智能应用于临床决策支持，特别是皮肤科、放射科和胃肠病学领域。"
+                "Zheng Wang 是一位副教授，专门从事医学影像分析、疾病识别、生物信息学以及医学领域多模态数据融合计算模型的开发。",
+                "他拥有计算数学博士学位（2022年）和信息学硕士学位（2005年）。他的研究重点是应用深度学习和人工智能进行临床决策支持，特别是在皮肤科、胃肠科和放射科领域。"
               ],
               "name": "Zheng Wang",
               "role": "副教授",
               "links": [],
               "photo": "[PHOTO_UNCHANGED]",
-              "gender": "male",
-              "sourceName": "1.1 Curriculum vitae.pdf"
+              "sourceName": "zheng-wang"
             },
             "services": [],
             "experience": [
               {
-                "organization": "现任职务",
-                "range": "2022年2月1日 - 至今",
-                "detail": "副教授"
+                "range": "2022年2月1日 – 至今",
+                "detail": "副教授",
+                "organization": "现任职务"
               },
               {
-                "organization": "博士学习",
-                "range": "2018年9月1日 - 2022年6月15日",
-                "detail": "计算数学博士"
+                "range": "2018年9月1日 – 2022年6月15日",
+                "detail": "计算数学博士",
+                "organization": "博士学习"
               },
               {
-                "organization": "硕士学习",
-                "range": "2000年9月1日 - 2005年4月5日",
-                "detail": "信息学硕士 (Diplom-Informatiker)"
+                "range": "2000年9月1日 – 2005年4月5日",
+                "detail": "信息学硕士 (Diplom - Informatiker)",
+                "organization": "硕士学习"
               },
               {
-                "organization": "本科学习",
-                "range": "1994年9月1日 - 1998年6月20日",
-                "detail": "计算数学学士"
+                "range": "1994年9月1日 – 1998年6月20日",
+                "detail": "计算数学学士",
+                "organization": "本科学习"
               },
               {
-                "organization": "海外经历",
-                "range": "1999年8月20日 - 2005年5月23日",
-                "detail": "DSH考试及硕士学习 (Diplom-Informatiker)"
+                "range": "1999年8月20日 – 2005年5月23日",
+                "detail": "DSH考试及硕士学习 (Diplom - Informatiker)",
+                "organization": "海外经历"
               }
             ],
             "navigation": [
@@ -275,333 +253,6 @@
                 "target": "#experience"
               },
               {
-                "label": "学术服务",
-                "target": "#services"
-              }
-            ],
-            "featuredProjects": [
-              {
-                "links": [],
-                "title": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression",
-                "venue": "Computers in Biology and Medicine, 2026",
-                "authors": "Wang, Z., Hu, H., Wen, Y., et al.",
-                "summary": "影像学和机器学习揭示了白癜风进展中色素环的空间特征。"
-              },
-              {
-                "links": [],
-                "title": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging",
-                "venue": "IEEE Journal of Biomedical and Health Informatics, 2026",
-                "authors": "Wang, Z., Nie, Z., Hu, H., et al.",
-                "summary": "基于伍德灯成像的深度学习白癜风活动性评估：一种临床决策支持。"
-              },
-              {
-                "links": [],
-                "title": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma",
-                "venue": "Computers in Biology and Medicine, 2026",
-                "authors": "Peng, J., Xie, S., Liao, X., et al.",
-                "summary": "用于诊断胰腺导管腺癌和血管受累的多结构CT放射组学共识模型。"
-              },
-              {
-                "links": [],
-                "title": "Deep learning-based severity grading of Meniere's disease using 2D MRI",
-                "venue": "Medical Physics, 2026",
-                "authors": "Wang, Z., Xue, Y., Chen, Y., et al.",
-                "summary": "基于二维MRI的梅尼埃病严重程度分级的深度学习方法。"
-              },
-              {
-                "links": [],
-                "title": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data",
-                "venue": "Scientific Reports, 2025",
-                "authors": "Wang, Z., Tai, M., Hu, H., et al.",
-                "summary": "通过3D成像和临床数据进行皮肤病变风险预测的可解释多模态AI。"
-              },
-              {
-                "links": [],
-                "title": "Enhancing Epstein – Barr virus detection in IBD patients with XAI and clinical data integration",
-                "venue": "Computers in Biology and Medicine, 2025",
-                "authors": "Wang, Z., Chen, Y., Wu, Y., et al.",
-                "summary": "结合XAI和临床数据整合增强IBD患者中EB病毒的检测。"
-              },
-              {
-                "links": [],
-                "title": "Influence of hair presence on dermoscopic image analysis by AI in skin lesion diagnosis",
-                "venue": "Computers in Biology and Medicine, 2024",
-                "authors": "Wang, Z., Xue, Y., Xi, H., et al.",
-                "summary": "毛发存在对AI在皮肤病变诊断中皮肤镜图像分析的影响。"
-              },
-              {
-                "links": [],
-                "title": "Identifying diagnostic biomarkers for Erythemato-Squamous diseases using explainable machine learning",
-                "venue": "Biomedical Signal Processing and Control, 2025",
-                "authors": "Wang, Z., Chang, L., Shi, T., et al.",
-                "summary": "利用可解释机器学习识别红斑鳞状疾病的诊断生物标志物。"
-              },
-              {
-                "links": [],
-                "title": "Rethinking BCC diagnosis: Automating concept-specific detecting of BCC in dermatoscopic image",
-                "venue": "Journal der Deutschen Dermatologischen Gesellschaft, 2024",
-                "authors": "Wang, Z., Hu, H., Liu, Z., et al.",
-                "summary": "重新思考BCC诊断：在皮肤镜图像中自动化特定概念的BCC检测。"
-              },
-              {
-                "links": [],
-                "title": "Accurate measurement of key structures in CBD patients using deep learning",
-                "venue": "Biomedical Signal Processing and Control, 2024",
-                "authors": "Wang, Z., Lin, K., Zheng, M., et al.",
-                "summary": "利用深度学习精确测量CBD患者的关键结构。"
-              }
-            ]
-          },
-          "updated_at": "2026-05-12 15:58:59 UTC"
-        }
-      },
-      "translation_summaries": {
-        "zh": {
-          "name": "Zheng Wang",
-          "role": "副教授",
-          "summary": "Zheng Wang 是一位副教授，专业领域包括医学影像分析、疾病识别、生物信息学以及医学领域多模态数据融合计算模型的开发。",
-          "topics": [
-            "医学影像分析",
-            "疾病识别",
-            "生物信息学",
-            "多模态数据融合计算模型",
-            "深度学习",
-            "人工智能",
-            "临床决策支持"
-          ]
-        }
-      },
-      "is_pinned": true,
-      "pinned_at": "2026-05-13 18:34:06",
-      "sort_order": 400,
-      "updated_at": "2026-05-12 23:48:52"
-    },
-    {
-      "id": "huiwen-tan",
-      "name": "Huiwen Tan",
-      "role": "Embedded Engineer",
-      "summary": "Tan Hui is an Embedded Software Engineer with a Bachelor's degree in Electronic Information Engineering from Hunan First Normal University. She has a strong background in ARM microcontroller development, RTOS porting, and wireless communication protocols. Her technical expertise includes C/C++ programming, Linux develo",
-      "topics": [
-        "Embedded Systems",
-        "ARM Architecture",
-        "RTOS (FreeRTOS, UCOSIII)",
-        "IoT & Wireless Communication (4G, Bluetooth, MQTT)",
-        "PCB Design & Circuit Analysis",
-        "Linux System Development",
-        "Sensor Fusion & Navigation Algorithms"
-      ],
-      "data": {
-        "misc": [],
-        "news": [
-          {
-            "date": "2024",
-            "text": "Second Prize, Jialichuang Electronic Design Competition based on LiChuang Development Board"
-          },
-          {
-            "date": "2024",
-            "text": "Second Prize (Provincial), 15th Lanqiao Cup Electronics Competition-MCU Track"
-          },
-          {
-            "date": "2023",
-            "text": "First Prize, 5th Hunan College Student Intelligent Navigation Technology Innovation Competition"
-          },
-          {
-            "date": "2023",
-            "text": "Second Prize, RAICOM (Robocom) National Finals"
-          },
-          {
-            "date": "2023",
-            "text": "Second Prize, 7th Hunan College Student IoT Application Innovation Design Competition (Skills Competition)"
-          },
-          {
-            "date": "2023",
-            "text": "Third Prize, Application Track, Central Region, 6th National College Student Embedded Chip and System Design Competition"
-          },
-          {
-            "date": "2023",
-            "text": "Provincial Project, Hunan College Student Innovation and Entrepreneurship Competition"
-          }
-        ],
-        "topics": [
-          "Embedded Systems",
-          "ARM Architecture",
-          "RTOS (FreeRTOS, UCOSIII)",
-          "IoT & Wireless Communication (4G, Bluetooth, MQTT)",
-          "PCB Design & Circuit Analysis",
-          "Linux System Development",
-          "Sensor Fusion & Navigation Algorithms"
-        ],
-        "profile": {
-          "bio": [
-            "Tan Hui is an Embedded Software Engineer with a Bachelor's degree in Electronic Information Engineering from Hunan First Normal University. She has a strong background in ARM microcontroller development, RTOS porting, and wireless communication protocols. Her technical expertise includes C/C++ programming, Linux develo",
-            "During her internship at Changsha Beidou Industrial Safety Technology Research Institute, she worked on 4G/433 communication protocols, FreeRTOS migration, and driver development. She has successfully led several award-winning projects involving IoT systems, smart agricultural machinery, and portable consumer electroni"
-          ],
-          "name": "Huiwen Tan",
-          "role": "Embedded Engineer",
-          "links": [
-            {
-              "label": "Email",
-              "url": "mailto:3195006355@qq.com"
-            },
-            {
-              "label": "Phone",
-              "url": "tel:15576412150"
-            }
-          ],
-          "photo": "data:image/jpeg;base64,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",
-          "sourceName": "谭慧文个人简历2025-1-9.pdf",
-          "originalName": "谭慧文"
-        },
-        "services": [],
-        "experience": [
-          {
-            "organization": "Changsha Beidou Industrial Safety Technology Research Institute Group Co., Ltd.",
-            "range": "2024.08 - 2025.02 (Internship)",
-            "detail": "Responsible for ARM MCU embedded system design and development, focusing on 4G/433 wireless communication protocol debugging and on-board module drivers (positioning receivers). Ported middleware including FreeRTOS, FatFs, LVGL, and USB-MSC. Collaborated with testing engineers for field testing and troubleshooting. Maintained legacy products and optimized functions. Wrote and maintained project documentation."
-          },
-          {
-            "organization": "Hunan First Normal University",
-            "range": "2021.09 - 2025.06",
-            "detail": "Bachelor's degree in Electronic Information Engineering. GPA: 3.6 (Top 10%). Coursework: C Programming, Data Structures & Algorithms, Digital/Analog Circuits, ARM Architecture, Linux OS, Signals & Systems, High-Frequency Electronic Circuits."
-          }
-        ],
-        "featuredProjects": [
-          {
-            "title": "Portable Rechargeable Multi-function Handheld Console based on LiChuang SkyStar",
-            "venue": "Second Prize, Jialichuang Electronic Design Competition (2024)",
-            "authors": "Tan Hui",
-            "summary": "Designed a portable multi-function handheld console based on LiChuang SkyStar GD32F407VET6. Features include charging management, clock/alarm display, electronic piano, games (Snake, Dino Run), and background 1-bit music playback. Implemented object-oriented programming in C, multi-level menu UI, and dynamic key scanning (long press, double click, etc.).",
-            "links": []
-          },
-          {
-            "title": "Smart Integrated Seeder based on Satellite Positioning Technology",
-            "venue": "First Prize, 5th Hunan College Student Intelligent Navigation Technology Innovation Competition (2023)",
-            "authors": "Tan Hui",
-            "summary": "Integrated satellite positioning technology into a smart seeder. Developed Web and mobile interfaces using Alibaba Cloud IoT Studio. Implemented image transmission via ESP32 and data communication via ESP8266/Bluetooth. Designed motor driver and power PCB. Performed NMEA0183 protocol parsing, MPU9250 DMP attitude calculation, and PID algorithms for Beidou positioning and obstacle avoidance navigation.",
-            "links": []
-          },
-          {
-            "title": "Smart Integrated Seeder based on Mobile Remote Control",
-            "venue": "Second Prize, 2023 RAICOM National Finals; Provincial Project, Hunan College Student Innovation and Entrepreneurship Competition",
-            "authors": "Tan Hui",
-            "summary": "Responsible for the 3D mechanical structure design, power management, and motor driver PCB design. Implemented Bluetooth control algorithms and ported FreeRTOS to STM32 to coordinate seeder functions, improving efficiency and real-time performance.",
-            "links": []
-          },
-          {
-            "title": "IoT Smart Water Dispenser Control System based on ESP32",
-            "venue": "Third Prize, Application Track, Central Region, 6th National College Student Embedded Chip and System Design Competition (2023)",
-            "authors": "Tan Hui",
-            "summary": "Developed an IoT smart water dispenser control system using ESP32. Controlled motors and SPI display screens, managed RFID data communication, and stored parameters in W25Q64. Uploaded data to Alibaba Cloud via MQTT and built an IoT monitoring dashboard.",
-            "links": []
-          }
-        ]
-      },
-      "translations": {
-        "zh": {
-          "site_data": {
-            "misc": [
-              "添加一个个人爱好或兴趣，让页面更具人情味。",
-              "保持这一部分简短友好。"
-            ],
-            "news": [
-              {
-                "date": "2024",
-                "text": "嘉立创基于立创开发板电子设计大赛二等奖"
-              },
-              {
-                "date": "2024",
-                "text": "第十五届蓝桥杯电子赛单片机省级二等奖"
-              },
-              {
-                "date": "2023",
-                "text": "第五届湖南省大学生智能导航科技创新大赛一等奖"
-              },
-              {
-                "date": "2023",
-                "text": "睿抗机器人开发者大赛（RAICOM）全国总决赛二等奖"
-              },
-              {
-                "date": "2023",
-                "text": "第七届湖南省大学生物联网应用创新设计竞赛（技能赛）二等奖"
-              },
-              {
-                "date": "2023",
-                "text": "第六届全国大学生嵌入式芯片与系统设计竞赛应用赛道中部赛区三等奖"
-              },
-              {
-                "date": "2023",
-                "text": "湖南省大学生创新创业大赛省级立项"
-              }
-            ],
-            "footer": "版权所有 (c) 2026 谭慧文",
-            "topics": [
-              "Embedded Systems",
-              "ARM Architecture",
-              "RTOS (FreeRTOS, UCOSIII)",
-              "IoT & Wireless Communication (4G, Bluetooth, MQTT)",
-              "PCB Design & Circuit Analysis",
-              "Linux System Development",
-              "Sensor Fusion & Navigation Algorithms"
-            ],
-            "profile": {
-              "bio": [
-                "谭慧文是一名嵌入式软件工程师，拥有湖南第一师范学院电子信息工程学士学位。在ARM单片机开发、RTOS移植以及无线通信协议方面拥有扎实的背景。技术专长包括C/C++编程、Linux开发、",
-                "在长沙北斗产业安全技术研究院实习期间，负责4G/433通信协议、FreeRTOS移植及驱动开发工作。曾成功领导多个获奖项目，涉及物联网系统、智能农业机械及便携式消费电子产品。"
-              ],
-              "name": "谭慧文",
-              "role": "嵌入式工程师",
-              "links": [
-                {
-                  "url": "mailto:3195006355@qq.com",
-                  "label": "邮箱"
-                },
-                {
-                  "url": "tel:15576412150",
-                  "label": "电话"
-                }
-              ],
-              "photo": "data:image/jpeg;base64,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",
-              "sourceName": "谭慧文个人简历2025-1-9.pdf",
-              "originalName": "谭慧文"
-            },
-            "services": [
-              "助教：课程名称、学期及机构。",
-              "审稿人：会议或期刊列表。"
-            ],
-            "experience": [
-              {
-                "range": "2024.08 - 2025.02 (实习)",
-                "detail": "负责ARM单片机嵌入式系统的设计与开发，主要涉及4G、433无线通信控制协议的调试以及定位接收机等板载模块的驱动。完成了FreeRTOS操作系统、FatFs文件系统、LVGL、USB-MSC等中间件的移植。与测试工程师紧密合作，进行外场实地测试并排查问题。维护公司老产品，优化程序功能。完成项目文档的编写与维护，确保项目资料的完整性和可追溯性。",
-                "organization": "长沙北斗产业安全技术研究院集团股份有限公司"
-              },
-              {
-                "range": "2021.09 - 2025.06",
-                "detail": "电子信息工程专业学士学位。GPA：3.6（专业前10%）。主修课程：C语言程序结构设计、数据结构与算法、数字电路、模拟电路、ARM体系架构、Linux操作系统、信号与系统、高频电子线路等。",
-                "organization": "湖南第一师范学院"
-              }
-            ],
-            "navigation": [
-              {
-                "label": "关于我",
-                "target": "#about"
-              },
-              {
-                "label": "最新动态",
-                "target": "#news"
-              },
-              {
-                "label": "研究方向",
-                "target": "#topics"
-              },
-              {
-                "label": "精选项目",
-                "target": "#featured"
-              },
-              {
-                "label": "经历",
-                "target": "#experience"
-              },
-              {
                 "label": "服务",
                 "target": "#services"
               }
@@ -609,57 +260,76 @@
             "featuredProjects": [
               {
                 "links": [],
-                "title": "基于立创天空星的便携式可充电多功能掌机",
-                "venue": "Second Prize, Jialichuang Electronic Design Competition (2024)",
-                "authors": "Tan Hui",
-                "summary": "基于立创天空星GD32F407VET6设计了一款便携式多功能掌机。功能包括充电管理（查看电量、充电动画等）、时间/闹钟/日期的显示与设置、电子琴、小游戏（《贪吃蛇》、《小恐龙快跑》）以及后台“1bit音乐”播放。使用C语言实现了面向对象编程思想，设计了多级菜单UI，并实现了动态按键扫描（长按、双击等）。"
+                "title": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression",
+                "venue": "Computers in Biology and Medicine 208 (2026)",
+                "authors": "Wang, Zheng, Hui Hu, Yaqing Wen, Zixuan Nie, Chong Wang, Hongyang Fu, Qinghai Zeng, and Jianglin Zhang",
+                "summary": "Imaging and machine learning reveal pigment ring spatial characteristics in vitiligo progression."
               },
               {
                 "links": [],
-                "title": "基于卫星定位技术的智能一体化播种机",
-                "venue": "First Prize, 5th Hunan College Student Intelligent Navigation Technology Innovation Competition (2023)",
-                "authors": "Tan Hui",
-                "summary": "将卫星定位技术集成到智能播种机中。利用阿里云IoT Studio开发了Web和移动端界面。通过ESP32实现图传，通过ESP8266和蓝牙模块进行数据通信。设计了电机驱动和电源PCB。进行了NMEA0183协议解析、MPU9250 DMP姿态解算以及PID算法运算，实现了北斗定位和避障导航功能。"
+                "title": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging",
+                "venue": "IEEE Journal of Biomedical and Health Informatics (2026)",
+                "authors": "Wang, Zheng, Zixuan Nie, Hui Hu, Kaibin Lin, Chong Wang, Hongyang Fu, and Jianglin Zhang",
+                "summary": "Deep Learning-Based Vitiligo Activity Evaluation Using Wood's Lamp Imaging: A Clinical Decision Support."
               },
               {
                 "links": [],
-                "title": "基于移动端远程控制的智能一体化播种机",
-                "venue": "Second Prize, 2023 RAICOM National Finals; Provincial Project, Hunan College Student Innovation and Entrepreneurship Competition",
-                "authors": "Tan Hui",
-                "summary": "负责播种机的一体化机械结构3D设计、电源管理以及电机驱动PCB电路设计。实现了蓝牙控制算法，并将FreeRTOS移植到STM32，以协调播种机的各项功能，提高了效率和实时性。"
+                "title": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma",
+                "venue": "Computers in Biology and Medicine 204 (2026)",
+                "authors": "Peng, Jia, Shiyao Xie, Xinnan Liao, Mengnan Tai, Zixuan Nie, Yaoqi Wang, Zhiyuan Chen, Zheng Wang, and Ya Peng",
+                "summary": "Multi-structure CT radiomics-based consensus model for the diagnosis of pancreatic ductal adenocarcinoma and vascular involvement."
               },
               {
                 "links": [],
-                "title": "基于ESP32的物联网智能饮水机控制系统",
-                "venue": "Third Prize, Application Track, Central Region, 6th National College Student Embedded Chip and System Design Competition (2023)",
-                "authors": "Tan Hui",
-                "summary": "利用ESP32开发了物联网智能饮水机控制系统。控制电机和SPI显示屏，管理RFID数据通信，并使用W25Q64存储设备阈值控制等参数。通过MQTT协议将数据上传至阿里云平台，并搭建了物联网后台监控界面。"
+                "title": "Deep learning-based severity grading of Meniere's disease using 2D MRI",
+                "venue": "Medical Physics 53, no. 1 (2026)",
+                "authors": "Wang, Zheng, Yang Xue, Yongjia Chen, Kaibin Lin, Jie Li, Lingyun Mei, and Jian Song",
+                "summary": "Deep learning-based severity grading of Meniere's disease using 2D MRI."
+              },
+              {
+                "links": [],
+                "title": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data",
+                "venue": "Scientific Reports (2025)",
+                "authors": "Wang, Zheng, Mengnan Tai, Hui Hu, Hao Yuan, Chong Wang, Hongyang Fu, and Jianglin Zhang",
+                "summary": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data."
+              },
+              {
+                "links": [],
+                "title": "Structure-aware deep learning for chronic middle ear disease",
+                "venue": "EXPERT SYSTEMS WITH APPLICATIONS, 194 (2022)",
+                "authors": "Zheng Wang, Jian Song, Ri Su, Muzhou Hou, Min Qi, Jianglin Zhang, Xuewen Wu",
+                "summary": "Structure-aware deep learning for chronic middle ear disease."
+              },
+              {
+                "links": [],
+                "title": "Three feature streams based on a convolutional neural network for early esophageal cancer identification",
+                "venue": "MULTIMEDIA TOOLS AND APPLICATIONS, 81.26 (2022)",
+                "authors": "Zheng Wang, Zhaoying Li, Ying Xiao, Xiaowei Liu, Muzhou Hou, Shuijiao Chen",
+                "summary": "Three feature streams based on a convolutional neural network for early esophageal cancer identification."
               }
             ]
           },
-          "updated_at": "2026-05-12 06:37:32 UTC"
+          "updated_at": "2026-05-01 04:13:49 UTC"
         }
       },
       "translation_summaries": {
         "zh": {
-          "name": "谭慧文",
-          "role": "嵌入式工程师",
-          "summary": "谭慧文是一名嵌入式软件工程师，拥有湖南第一师范学院电子信息工程学士学位。在ARM单片机开发、RTOS移植以及无线通信协议方面拥有扎实的背景。技术专长包括C/C++编程、Linux开发、",
+          "name": "Zheng Wang",
+          "role": "副教授",
+          "summary": "Zheng Wang 是一位副教授，专门从事医学影像分析、疾病识别、生物信息学以及医学领域多模态数据融合计算模型的开发。",
           "topics": [
-            "Embedded Systems",
-            "ARM Architecture",
-            "RTOS (FreeRTOS, UCOSIII)",
-            "IoT & Wireless Communication (4G, Bluetooth, MQTT)",
-            "PCB Design & Circuit Analysis",
-            "Linux System Development",
-            "Sensor Fusion & Navigation Algorithms"
+            "医学影像分析",
+            "疾病识别",
+            "生物信息学",
+            "多模态数据融合计算模型",
+            "深度学习",
+            "计算机辅助诊断"
           ]
         }
       },
-      "is_pinned": false,
-      "pinned_at": "",
-      "sort_order": 300,
-      "updated_at": "2026-05-12 14:34:03"
+      "is_pinned": true,
+      "pinned_at": "2026-05-08 17:23:33",
+      "updated_at": "2026-05-01 12:13:49"
     }
   ]
 }
